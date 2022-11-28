@@ -1,0 +1,14 @@
+.relative {
+  background-color: #483d8b;
+}
+
+.btn {
+  color: white;
+  background-color: #ffd700;
+  transition: all .4;
+}
+.btn:hover {
+  color: white;
+  background-color: #483d8b;
+  border: 1px solid white;
+}
